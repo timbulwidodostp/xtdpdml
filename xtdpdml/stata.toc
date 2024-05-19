@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtdpdml Dynamic Panel Data Models using Maximum Likelihood Use xtdpdml With STATA 18
