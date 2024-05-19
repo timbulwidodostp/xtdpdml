@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtdpdml': Dynamic Panel Data Models using Maximum Likelihood Use xtdpdml With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtdpdml.ado
+f xtdpdml.sthlp
